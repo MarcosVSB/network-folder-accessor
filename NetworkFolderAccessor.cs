@@ -2,7 +2,7 @@ using System;
 using System.Windows.Forms;
 using System.Diagnostics;
 
-//Comment
+//Commen
 namespace LogAnalyzer
 {
     public partial class NetworkFolderAccessor : Form
