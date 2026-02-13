@@ -1,8 +1,9 @@
+// Arquivo de teste para teste porra
+
 using System;
 using System.Windows.Forms;
 using System.Diagnostics;
 
-//Commen
 namespace LogAnalyzer
 {
     public partial class NetworkFolderAccessor : Form
